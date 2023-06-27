@@ -35,7 +35,6 @@
   <img align="left" src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white">
   <img align="left" src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683">
   <img align="left" src="https://img.shields.io/badge/MATLAB-%230076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/Simulink-%23E10000.svg?style=for-the-badge&logo=simulink&logoColor=white">
 </div>
 <br>
 <div>
